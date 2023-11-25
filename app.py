@@ -7,5 +7,5 @@ st.set_page_config(
 )
 
 st.title("My Streamlit Website")
-st.title("Reussite Bugale Malembaka")
-
+st.title("I am Reussite Bugale Malembaka")
+st.title("I am a student in agroecology")
